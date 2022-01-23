@@ -1,0 +1,40 @@
+.mainheader{
+    width: 100%;
+    background-color: #59B0FF;
+    padding: 1.2rem;
+    box-shadow: black 0px 2px 5px;
+}
+
+
+.navbar{
+    display: flex;
+}
+
+.navbar ul{
+    list-style: none;
+    display: flex;
+    
+}
+
+.navitem{
+    font-weight: 200;
+    font-size: 1rem;
+    color: white;
+    padding: 0.5rem;
+    text-decoration: underline white;
+    background-color: transparent;
+    
+    margin-right: 1rem;
+    cursor: pointer
+}
+
+.navitem:hover{
+
+    background-color: #8ac7ff;
+}
+
+.navitem:active,
+.navitem.active{
+    background-color: #8ac7ff;
+    box-shadow: white 0px 0px 10px;
+}

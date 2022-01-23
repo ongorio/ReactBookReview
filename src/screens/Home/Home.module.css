@@ -1,0 +1,16 @@
+.main-display{
+    display: grid;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.list-one{
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+
+.list-two{
+    grid-column: 3;
+    grid-column: 4;
+}

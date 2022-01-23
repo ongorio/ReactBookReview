@@ -1,0 +1,20 @@
+.books-list{
+    list-style: none;
+    padding: 0;
+}
+
+.display{
+    display: grid;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.grid-item-1{
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.grid-item-2{
+    grid-column-start: 3;
+    grid-column-end: 4;
+}

@@ -1,0 +1,16 @@
+.item{
+    background-color: #59B0FF;
+    padding: 0.2em;
+    /* border: 2px solid black; */
+    margin: 10px;
+    border-radius: 2%;
+
+    text-align: center;
+    color: white;
+
+    box-shadow: black 0px 2px 2px;
+}
+
+.item h3{
+    color: white;
+}

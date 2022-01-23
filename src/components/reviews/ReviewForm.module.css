@@ -1,0 +1,27 @@
+.form-container{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #cdcdcd;
+    padding: 1rem;
+}
+
+.form-control{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+
+.form-container input{
+    width: 100%;
+    padding: 0px 0px 1em 0px;
+}
+
+.form-container .score{
+    width: 10%;
+    padding: 0px 0px 1em 0px;
+}
+
+.form-container textarea{
+    width: 100%;
+    resize: vertical;
+}
